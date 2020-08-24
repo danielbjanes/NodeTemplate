@@ -2,7 +2,6 @@
   "name": "wordartjs",
   "version": "1.0.0",
   "description": "Generative art from twitter",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node-dev src/app.ts"
@@ -11,13 +10,18 @@
   "license": "ISC",
   "dependencies": {
     "@types/express": "^4.17.7",
-    "@types/react": "^16.9.46",
+    "@types/react-dom": "^16.9.8",
     "express": "^4.17.1",
+    "next": "^9.5.2",
     "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-images": "^1.1.7",
+    "react-photo-gallery": "^8.0.0",
     "tsc": "^1.20150623.0",
     "typescript": "^3.8.3"
   },
   "devDependencies": {
+    "@types/react": "^16.9.46",
     "ts-node-dev": "^1.0.0-pre.44"
   }
 }
