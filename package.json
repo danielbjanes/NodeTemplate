@@ -4,7 +4,7 @@
   "description": "Template for running react frontend off a node server with next js and express",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node --project tsconfig.json src/index.ts"
+    "start": "ts-node --project tsconfig.json src/server"
   },
   "author": "Daniel Bjanes",
   "license": "MIT",
