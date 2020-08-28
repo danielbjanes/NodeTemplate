@@ -2,14 +2,6 @@ import React, { useCallback, useState } from "react";
 import Carousel, { Modal, ModalGateway } from "react-images";
 import Gallery from "react-photo-gallery";
 
-// import { Container } from "next/app";
-
-// const app = () => {
-//   return <Container> Nothing here</Container>
-// };
-
-// export default app;
-
 const app = () => {
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
