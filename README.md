@@ -1,5 +1,5 @@
 # NodeTemplate
-Starter node template to get react files up an running. I wanted to have some code pre built so when starting a new project I could quickly get a template running. This has been designed to be super easy to use and start developing from
+Starter node template to get react files up and running. I wanted to have some code pre built so when starting a new project I could quickly get a template running. This has been designed to be super easy to use and start developing from
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development.
