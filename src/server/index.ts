@@ -1,7 +1,7 @@
 import next from "next";
 import express, { Request, Response } from "express";
 
-import config from "./config";
+import config from "../config";
 
 const dev = true;
 const port = config.port;
