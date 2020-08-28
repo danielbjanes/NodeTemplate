@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 After getting those installed simply clone this git repo.
 In the root directory ("/NodeTemplate") in your terminal just type `yarn`. This should install all of the node dependencies automatically.
 
-From there to get the server running type `yarn start` into the terminal and connect to `localhost:8080`.
+From there, to get the server running type `yarn start` into the terminal and connect to `localhost:8080`.
 
 Enjoy!
 
